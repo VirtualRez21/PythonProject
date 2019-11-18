@@ -1,2 +1,1 @@
 # PythonProject
-# Bukan untuk dibaca
