@@ -1,5 +1,5 @@
 # PythonProject
 
-if sad() == True:
-    sad().stop()
-    beAwesome()
+# if sad() == True:
+#     sad().stop()
+#     beAwesome()
